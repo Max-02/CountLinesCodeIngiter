@@ -61,5 +61,5 @@ for foldername in folder:
     print(foldername + ": " + str(folderlines))
     print("------------------------------------")
 
-#Gesamtzahl ausgeben
+#Gesamtzahl ausgeben mit print
 print("Overall: " + str(lines))
